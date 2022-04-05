@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notification</string>
+    <string name="remind_me">Remind me</string>
+    <string name="default_reminder_10">10</string>
+</resources>

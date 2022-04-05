@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "learn_kotlin_and_android"
 include ':toast'
 include ':snackbar'
+include ':notification'
